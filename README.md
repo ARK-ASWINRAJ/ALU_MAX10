@@ -12,6 +12,6 @@ Pins Assigned;
 ## How to use
 
 1.Download the Archived project;\
-2.Download Quartus Prime software;\
+2.Download and install Quartus Prime software;\
 3.Open the project;\
 4.You can view the design and Compilation reports using the above software;
